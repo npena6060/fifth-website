@@ -1,0 +1,15 @@
+table,th,td{
+    border:1px solid black
+
+}
+body{
+    background-image:
+    url('https://images.pexels.com/photos/87816/iguana-green-lizard-kaltblut-87816.jpeg?cs=srgb&dl=pexels-pixabay-87816.jpg&fm=jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    background-color:red;
+}
+table{
+    background-color:red
+}
